@@ -1,0 +1,29 @@
+{
+  "name": "loginpassportjs",
+  "version": "1.0.0",
+  "description": "Crear un servidor de node.js con passport.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "npm run server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JonnHenry/LoginPassportjs.git"
+  },
+  "author": "Jonnathan Campoberde",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JonnHenry/LoginPassportjs/issues"
+  },
+  "homepage": "https://github.com/JonnHenry/LoginPassportjs#readme",
+  "dependencies": {
+    "cookie-parser": "^1.4.4",
+    "ejs": "^3.0.1",
+    "express": "^4.17.1",
+    "express-session": "^1.17.0",
+    "passport": "^0.4.1"
+  },
+  "devDependencies": {},
+  "keywords": []
+}
